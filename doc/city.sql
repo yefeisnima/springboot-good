@@ -1,6 +1,7 @@
 /*
 Navicat MySQL Data Transfer
 
+
 Source Server         : 47.94.213.193
 Source Server Version : 50716
 Source Host           : 47.94.213.193:3306
